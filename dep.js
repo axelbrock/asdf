@@ -1,4 +1,5 @@
 import rootdep from './rootdep';
+import innerdep from './innerdep';
 
 
 const obj = {store:0}
