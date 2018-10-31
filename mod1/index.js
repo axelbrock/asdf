@@ -13,9 +13,9 @@ class ModuleOne extends Component {
       h2 = 'Hi TL welcome to Custom Modules! :)'
     } = this.props;
 
-    let {
-      flux, config
-    } = this.context;
+//    let {
+//      flux, config
+//    } = this.context;
 
     return (
       <div>
