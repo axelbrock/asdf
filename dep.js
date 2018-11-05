@@ -1,7 +1,7 @@
 import rootdep from './rootdep';
 import innerdep from './innerdep';
 
-import twitter from 'ponents/barnacle';
+import asdfasdfqwer from 'zxcvzxcvzxcv';
 
 import something from './nothing.js';
 
