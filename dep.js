@@ -8,6 +8,7 @@ import something from './nothing.js';
 const obj = {store:0}
 
 function dep (a) {
+  asdfasdfqwer()
   obj.store += a
   return obj.store
 }
