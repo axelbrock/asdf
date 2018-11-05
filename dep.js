@@ -1,7 +1,7 @@
 import rootdep from './rootdep';
 import innerdep from './innerdep';
 
-import twitter from 'components/social/TwitterFeedBarnacle';
+import twitter from 'components/barnacle';
 
 const obj = {store:0}
 
