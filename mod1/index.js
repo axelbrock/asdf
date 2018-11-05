@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 
-import twitter from 'components/social/TwitterFeed';
+import twitter from 'components/social/TwitterFeedBarnacle';
 
 import otherdep from './otherdep';
 import dep from '../dep';
